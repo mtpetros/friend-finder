@@ -1,0 +1,17 @@
+.question-container {
+    margin-bottom: 20px;
+}
+
+#profileModal {
+    text-align: center;
+}
+
+.modal-body img {
+    width: 350px;
+    height: 350px;
+}
+
+button {
+    width: 50px;
+    height: 25px;
+}
